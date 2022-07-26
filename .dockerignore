@@ -1,0 +1,8 @@
+venv
+/.idea/
+files/proxies/*
+.DS_Store
+.github
+*.md
+LICENSE
+.gitignore
