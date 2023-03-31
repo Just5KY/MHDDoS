@@ -61,7 +61,7 @@
   * <img src="https://lyrahosting.com/wp-content/uploads/2020/06/ddos-attack-icon.png" width="16" height="16" alt="ntp"> NTP | NTP Amplification
   * <img src="https://cdn-icons-png.flaticon.com/512/4712/4712139.png" width="16" height="16" alt="mcbot"> MCBOT | Minecraft Bot Attack
   * <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/minecraft_logo_icon_168974.png" width="16" height="16" alt="minecraft"> MINECRAFT | Minecraft Status Ping Protocol
-  * <img src="https://gam3r.ir/wp-content/uploads/2018/11/512dVKB22QL.png" width="16" height="16" alt="minecraft pe"> MCPE | Minecraft PE Status Ping Protocol
+  * <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/minecraft_logo_icon_168974.png" width="16" height="16" alt="minecraft pe"> MCPE | Minecraft PE Status Ping Protocol
   * <img src="https://cdn-icons-png.flaticon.com/512/2653/2653461.png" width="16" height="16" alt="dns"> DNS | DNS Amplification
   * <img src="https://lyrahosting.com/wp-content/uploads/2020/06/ddos-attack-icon.png" width="16" height="16" alt="chargen"> CHAR | Chargen Amplification
   * <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRct5OvjSCpUftyRMm3evgdPOa-f8LbwJFO-A&usqp=CAU" width="16" height="16" alt="cldap"> CLDAP | Cldap Amplification
@@ -98,7 +98,7 @@ Our social's💻
  * [Matrix Team Telegram group](https://t.me/DD0SChat)
  * [Matrix community Telegram channel](https://t.me/MatrixORG)
  * [GitHub] : [github]
-### If u Like the project Leave a star on the repository!
+### If u Like the project, leave a star on the repository!
 
 ## Downloads
 
@@ -127,7 +127,7 @@ You can download it from [GitHub Releases](https://github.com/MatrixTM/MHDDoS/re
 
 **Tutorial**
 
-* Aprat : https://aparat.com/v/XPn5Z
+* Aparat : https://aparat.com/v/XPn5Z
 * YouTube : Coming soon...
 ---
 
@@ -146,11 +146,11 @@ pip install -r requirements.txt
 **One-Line Installing on Fresh VPS**
 
 ```shell script
-apt -y update && apt -y install curl wget libcurl4 libssl-dev python3 python3-pip make cmake automake autoconf m4 build-essential ruby perl golang git && git clone https://github.com/MatrixTM/MHDDoS.git && cd MH* && pip3 install -r requirements.txt
+apt -y update && apt -y install curl wget libcurl4 libssl-dev python3 python3-pip make cmake automake autoconf m4 build-essential git && git clone https://github.com/MatrixTM/MHDDoS.git && cd MH* && pip3 install -r requirements.txt
 ```
 
 [python3]: https://python.org 'Python3'
-[github]: https://github.com/MatrixTM/MHDDoS/issues 'GitHub'
+[github issues]: https://github.com/MatrixTM/MHDDoS/issues 'enter'
 
 ---
 
